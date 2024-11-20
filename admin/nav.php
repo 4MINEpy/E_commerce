@@ -7,7 +7,7 @@
     <div class="navbar-collapse collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost:3000/">Liste command
+          <a class="nav-link active" href="http://localhost:3000/admin/all.php">Liste command
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
