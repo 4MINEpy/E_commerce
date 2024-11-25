@@ -1,8 +1,8 @@
 <?php
     $id = $_GET['id'];
-    require_once 'crud.php';
+    require_once '../../model/crud.php';
     $crud = new Crud_Produit();
     $res = $crud->delete($id);
     if($res){
-        header("location: all.php");exit;
+        header("location: findAll.php");exit;
     }else{echo("deleting problem, check product ID");}

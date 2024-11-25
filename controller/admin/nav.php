@@ -7,24 +7,15 @@
     <div class="navbar-collapse collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link active" href="http://localhost:3000/">Nos produit
+          <a class="nav-link active" href="http://localhost:3000/controller/admin/findAll.php">Liste command
             <span class="visually-hidden">(current)</span>
           </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Nos catégories</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
       </ul>
       <ul class="navbar-nav me-left">
-      <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-shopping-cart"></i>Panier</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#"><i class="fas fa-user-plus"></i>Créer un compt</a>
-        </li>
         <li class="nav-item">
           <a class="nav-link" href="#"><i class="fas fa-sign-in"></i>Connexion</a>
         </li>
